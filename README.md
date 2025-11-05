@@ -1,2 +1,2 @@
 # pipeline_galaxy
-This is the documentation if the project.
+This is the documentation of the project.
